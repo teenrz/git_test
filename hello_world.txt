@@ -1,2 +1,5 @@
 Hello World!
 This is the beginning of my coding journey
+
+Now I'll try to commit a git and adding it's optional message by using VSC
+<22.apr.22>
